@@ -1,1 +1,1 @@
-# leave-bot2
+# Leave-bot

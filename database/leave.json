@@ -1,0 +1,40 @@
+{
+  "fullLeaves": [
+    {
+      "user": "94760405102@s.whatsapp.net",
+      "name": "⏤͟͟͞͞ 𝑵𝚫𝑫𝑼𝑵ꪶ鍶ꫂ𝑵𝚫𝑽𝑶𝑫𝒀𝚫 ͟͞⏤",
+      "date": "2025.10.27",
+      "status": "approved",
+      "requestedAt": "2025-10-25T05:55:24.342Z",
+      "approvedBy": "94760405102@s.whatsapp.net",
+      "approvedAt": "2025-10-25T05:55:50.272Z"
+    },
+    {
+      "user": "94769893057@s.whatsapp.net",
+      "name": "Dananjaya",
+      "date": "2025.10.23",
+      "status": "pending",
+      "requestedAt": "2025-10-25T05:59:09.116Z"
+    }
+  ],
+  "halfLeaves": [
+    {
+      "user": "94760405102@s.whatsapp.net",
+      "name": "⏤͟͟͞͞ 𝑵𝚫𝑫𝑼𝑵ꪶ鍶ꫂ𝑵𝚫𝑽𝑶𝑫𝒀𝚫 ͟͞⏤",
+      "time": "12:30 PM",
+      "status": "approved",
+      "requestedAt": "2025-10-25T06:03:28.228Z",
+      "approvedBy": "94760405102@s.whatsapp.net",
+      "approvedAt": "2025-10-25T06:03:45.424Z"
+    },
+    {
+      "user": "94760405102@s.whatsapp.net",
+      "name": "⏤͟͟͞͞ 𝑵𝚫𝑫𝑼𝑵ꪶ鍶ꫂ𝑵𝚫𝑽𝑶𝑫𝒀𝚫 ͟͞⏤",
+      "time": "03:30 PM",
+      "status": "rejected",
+      "requestedAt": "2025-10-25T06:04:20.040Z",
+      "rejectedBy": "94760405102@s.whatsapp.net",
+      "rejectedAt": "2025-10-25T06:04:35.781Z"
+    }
+  ]
+}
